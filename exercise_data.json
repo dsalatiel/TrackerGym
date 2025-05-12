@@ -1,0 +1,256 @@
+[
+    {
+        "id": 1,
+        "category": "Beginner, Stability",
+        "title": "Gentle",
+        "intensity": "Gentle",
+        "gif_url": "russian_twist.gif",
+        "instructions": [
+            {
+                "step": 1,
+                "text": "Lie down on the floor and secure your feet. Your legs should be bent at the knees."
+            },
+            {
+                "step": 2,
+                "text": "Place your hands behind or to the side of your head. You will begin with your back on the ground. This will be your starting position."
+            },
+            {
+                "step": 3,
+                "text": "Flex your hips and spine to raise your torso toward your knees."
+            }
+            
+        ]
+    },
+    {
+        "id": 2,
+        "category": "Beginner",
+        "title": "Advanced jumping jacks",
+        "intensity": "Gentle",
+        "gif_url": "advanced_jumping_jacks.gif",
+        "instructions": [
+            {
+                "step": 1,
+                "text": "Lie down on the floor and secure your feet. Your legs should be bent at the knees."
+            },
+            {
+                "step": 2,
+                "text": "Place your hands behind or to the side of your head. You will begin with your back on the ground. This will be your starting position."
+            },
+            {
+                "step": 3,
+                "text": "Flex your hips and spine to raise your torso toward your knees."
+            },
+            {
+                "step": 4,
+                "text": "At the top of the contraction your torso should be perpendicular to the ground. Reverse the motion, going only ¾ of the way down. Repeat for the recommended amount of repetitions."
+            }
+        ]
+        },
+        {
+            "id": 3,
+            "category": "Beginner",
+            "title": "Advanced jumping jacks",
+            "intensity": "Gentle",
+            "gif_url": "advanced_jumping_jacks.gif",
+            "instructions": [
+                {
+                    "step": 1,
+                    "text": "Lie down on the floor and secure your feet. Your legs should be bent at the knees."
+                },
+                {
+                    "step": 2,
+                    "text": "Place your hands behind or to the side of your head. You will begin with your back on the ground. This will be your starting position."
+                },
+                {
+                    "step": 3,
+                    "text": "Flex your hips and spine to raise your torso toward your knees."
+                },
+                {
+                    "step": 4,
+                    "text": "At the top of the contraction your torso should be perpendicular to the ground. Reverse the motion, going only ¾ of the way down. Repeat for the recommended amount of repetitions."
+                }
+        ]
+    },
+    {
+        "id": 4,
+        "category": "Beginner",
+        "title": "Advanced jumping jacks",
+        "intensity": "Gentle",
+        "gif_url": "advanced_jumping_jacks.gif",
+        "instructions": [
+            {
+                "step": 1,
+                "text": "Lie down on the floor and secure your feet. Your legs should be bent at the knees."
+            },
+            {
+                "step": 2,
+                "text": "Place your hands behind or to the side of your head. You will begin with your back on the ground. This will be your starting position."
+            },
+            {
+                "step": 3,
+                "text": "Flex your hips and spine to raise your torso toward your knees."
+            },
+            {
+                "step": 4,
+                "text": "At the top of the contraction your torso should be perpendicular to the ground. Reverse the motion, going only ¾ of the way down. Repeat for the recommended amount of repetitions."
+            }
+    ]
+},
+
+{
+    "id": 5,
+    "category": "Beginner",
+    "title": "Advanced jumping jacks",
+    "intensity": "Gentle",
+    "gif_url": "advanced_jumping_jacks.gif",
+    "instructions": [
+        {
+            "step": 1,
+            "text": "Lie down on the floor and secure your feet. Your legs should be bent at the knees."
+        },
+        {
+            "step": 2,
+            "text": "Place your hands behind or to the side of your head. You will begin with your back on the ground. This will be your starting position."
+        },
+        {
+            "step": 3,
+            "text": "Flex your hips and spine to raise your torso toward your knees."
+        },
+        {
+            "step": 4,
+            "text": "At the top of the contraction your torso should be perpendicular to the ground. Reverse the motion, going only ¾ of the way down. Repeat for the recommended amount of repetitions."
+        }
+]
+},
+
+{
+    "id": 6,
+    "category": "Beginner",
+    "title": "Advanced jumping jacks",
+    "intensity": "Gentle",
+    "gif_url": "advanced_jumping_jacks.gif",
+    "instructions": [
+        {
+            "step": 1,
+            "text": "Lie down on the floor and secure your feet. Your legs should be bent at the knees."
+        },
+        {
+            "step": 2,
+            "text": "Place your hands behind or to the side of your head. You will begin with your back on the ground. This will be your starting position."
+        },
+        {
+            "step": 3,
+            "text": "Flex your hips and spine to raise your torso toward your knees."
+        },
+        {
+            "step": 4,
+            "text": "At the top of the contraction your torso should be perpendicular to the ground. Reverse the motion, going only ¾ of the way down. Repeat for the recommended amount of repetitions."
+        }
+]
+},
+
+{
+    "id": 7,
+    "category": "Beginner",
+    "title": "Advanced jumping jacks",
+    "intensity": "Gentle",
+    "gif_url": "advanced_jumping_jacks.gif",
+    "instructions": [
+        {
+            "step": 1,
+            "text": "Lie down on the floor and secure your feet. Your legs should be bent at the knees."
+        },
+        {
+            "step": 2,
+            "text": "Place your hands behind or to the side of your head. You will begin with your back on the ground. This will be your starting position."
+        },
+        {
+            "step": 3,
+            "text": "Flex your hips and spine to raise your torso toward your knees."
+        },
+        {
+            "step": 4,
+            "text": "At the top of the contraction your torso should be perpendicular to the ground. Reverse the motion, going only ¾ of the way down. Repeat for the recommended amount of repetitions."
+        }
+]
+},
+
+
+{
+    "id": 8,
+    "category": "Beginner",
+    "title": "Advanced jumping jacks",
+    "intensity": "Gentle",
+    "gif_url": "advanced_jumping_jacks.gif",
+    "instructions": [
+        {
+            "step": 1,
+            "text": "Lie down on the floor and secure your feet. Your legs should be bent at the knees."
+        },
+        {
+            "step": 2,
+            "text": "Place your hands behind or to the side of your head. You will begin with your back on the ground. This will be your starting position."
+        },
+        {
+            "step": 3,
+            "text": "Flex your hips and spine to raise your torso toward your knees."
+        },
+        {
+            "step": 4,
+            "text": "At the top of the contraction your torso should be perpendicular to the ground. Reverse the motion, going only ¾ of the way down. Repeat for the recommended amount of repetitions."
+        }
+]
+},
+
+{
+    "id": 9,
+    "category": "Beginner",
+    "title": "Advanced jumping jacks",
+    "intensity": "Gentle",
+    "gif_url": "advanced_jumping_jacks.gif",
+    "instructions": [
+        {
+            "step": 1,
+            "text": "Lie down on the floor and secure your feet. Your legs should be bent at the knees."
+        },
+        {
+            "step": 2,
+            "text": "Place your hands behind or to the side of your head. You will begin with your back on the ground. This will be your starting position."
+        },
+        {
+            "step": 3,
+            "text": "Flex your hips and spine to raise your torso toward your knees."
+        },
+        {
+            "step": 4,
+            "text": "At the top of the contraction your torso should be perpendicular to the ground. Reverse the motion, going only ¾ of the way down. Repeat for the recommended amount of repetitions."
+        }
+]
+},
+
+{
+    "id": 10,
+    "category": "Beginner",
+    "title": "Advanced jumping jacks",
+    "intensity": "Gentle",
+    "gif_url": "advanced_jumping_jacks.gif",
+    "instructions": [
+        {
+            "step": 1,
+            "text": "Lie down on the floor and secure your feet. Your legs should be bent at the knees."
+        },
+        {
+            "step": 2,
+            "text": "Place your hands behind or to the side of your head. You will begin with your back on the ground. This will be your starting position."
+        },
+        {
+            "step": 3,
+            "text": "Flex your hips and spine to raise your torso toward your knees."
+        },
+        {
+            "step": 4,
+            "text": "At the top of the contraction your torso should be perpendicular to the ground."
+        }
+]
+}
+]

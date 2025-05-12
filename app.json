@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "TrackerGym",
-    "slug": "TrackerGym",
+    "slug": "trackergym",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,13 +20,21 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.dsalas.trackergym"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "plugins": [
-      "expo-font"
-    ]
+      "expo-font",
+      "expo-audio"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "a344f8df-9688-4498-9ccc-349b4ab65f82"
+      }
+    },
+    "owner": "dsalas"
   }
 }
